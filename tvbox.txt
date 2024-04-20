@@ -8,20 +8,19 @@ CNN USA,mitv://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
 CBC News,mitv://generationnexxxt.com:19806/6579228b000ea7c13171f60c6a0d21f3
 MSNBC,mitv://generationnexxxt.com:19806/6579228b000782ab3171f43764692427
 CTV News,mitv://generationnexxxt.com:19806/6579228b0000fa413171f29242d67919
-重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
-華視,rtmp://f13h.mine.nu/sat/tv111
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,rtmp://f13h.mine.nu/sat/tv071
-民視,rtmp://f13h.mine.nu/sat/tv051
-南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-
-南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-高邮综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-香港佛陀,https://live.jingzong.org/live/hd/playlist.m3u8
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
-唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+閲嶆俯缁忓吀,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+鑿,rtmp://f13h.mine.nu/sat/tv111
+涓,rtmp://f13h.mine.nu/sat/tv091
+鍙拌,rtmp://f13h.mine.nu/sat/tv071
+姘戣,rtmp://f13h.mine.nu/sat/tv051
+鍗椾含淇℃伅,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+鍗椾含濞变箰,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+鍗椾含鍗佸叓,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+鍗椾含鏂伴椈缁煎悎,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
+鍗椾含鏁欑,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+楂橀偖缁煎悎,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+棣欐腐浣涢檧,https://live.jingzong.org/live/hd/playlist.m3u8
+鍑ゅ嚢涓枃,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+鍑ゅ嚢璧勮,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+鍑ゅ嚢棣欐腐,http://103.95.24.37:880/fhxgt.m3u8
+鍞績鐢佃,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8

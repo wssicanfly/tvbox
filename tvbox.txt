@@ -1,5 +1,8 @@
+收藏频道,#genre#
 Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+CGTN,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8#https://livedoc.cgtn.com/500d/prog_index.m3u8
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 CNA,mitv://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 CNN,mitv://generationnexxxt.com:19806/cc0fd522ff3f4f37a53773c138dacac1
@@ -9,17 +12,127 @@ CBC News,mitv://generationnexxxt.com:19806/6579228b000ea7c13171f60c6a0d21f3
 MSNBC,mitv://generationnexxxt.com:19806/6579228b000782ab3171f43764692427
 CTV News,mitv://generationnexxxt.com:19806/6579228b0000fa413171f29242d67919
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+上海第一财经,http://178.157.60.73/proxy/1946402424/1946402424.m3u8
 南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+江苏城市,https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
+江苏综艺,https://epg.pw/stream/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
+扬州2套,http://cm-wshls.homecdn.com/live/8bd.m3u8
 高邮综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 香港佛陀,https://live.jingzong.org/live/hd/playlist.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+
+南京LIVE,#genre#
+南京Live,http://178.157.60.73/proxy/2096554630/2096554630.m3u8
+江苏南京长江大桥,http://178.157.60.73/proxy/1764141811/1764141811.m3u8
+江苏南京玄武湖,http://178.157.60.73/proxy/1985889373/1985889373.m3u8
+江苏南京永宁张圩花海,http://178.157.60.73/proxy/25264739/25264739.m3u8
+南京南站,http://178.157.60.73/proxy/2072143452/2072143452.m3u8
+南京紫金山,http://178.157.60.73/proxy/177566095/177566095.m3u8
+南京音乐台,http://178.157.60.73/proxy/171515367/171515367.m3u8
+南京情侣园,http://178.157.60.73/proxy/185079179/185079179.m3u8
+南京长江大桥,http://178.157.60.73/proxy/1033254824/1033254824.m3u8
+南京栖霞山,http://178.157.60.73/proxy/182710545/182710545.m3u8
+南京鼓楼广场,http://178.157.60.73/proxy/960879458/960879458.m3u8
+南京新街口,http://178.157.60.73/proxy/183420062/183420062.m3u8
+南京紫峰眺望,http://178.157.60.73/proxy/1222351744/1222351744.m3u8
+南京白鹭洲公园,http://178.157.60.73/proxy/320590871/320590871.m3u8
+南京北极阁,http://178.157.60.73/proxy/188239043/188239043.m3u8
+南京三汊河,http://178.157.60.73/proxy/189455176/189455176.m3u8
+南京黄龙砚,http://178.157.60.73/proxy/169184085/169184085.m3u8
+南京矿坑公园,http://178.157.60.73/proxy/1263482067/1263482067.m3u8
+南京百家湖,http://178.157.60.73/proxy/179633244/179633244.m3u8
+南京眼,http://178.157.60.73/proxy/1734263806/1734263806.m3u8
+南京五马渡,http://178.157.60.73/proxy/188955121/188955121.m3u8
+浙江舟山嵊泗县中心渔港,http://178.157.60.73/proxy/748822183/748822183.m3u8
+浙江温州泰顺县廊桥文化园,http://178.157.60.73/proxy/1144314894/1144314894.m3u8
+浙江舟山东极岛,http://178.157.60.73/proxy/1973269961/1973269961.m3u8
+浙江杭州千岛湖,http://178.157.60.73/proxy/1683811739/1683811739.m3u8
+浙江嘉兴乌镇,http://178.157.60.73/proxy/463129046/463129046.m3u8
+安徽黄山黟县,http://178.157.60.73/proxy/1759244982/1759244982.m3u8
+上海南浦大桥,http://178.157.60.73/proxy/1514561649/1514561649.m3u8
+西藏林芝米林岷山彩门民宿,http://178.157.60.73/proxy/751076408/751076408.m3u8
+西藏林芝岷山错高民宿,http://178.157.60.73/proxy/680426319/680426319.m3u8
+西藏日喀则珠穆朗玛峰,http://178.157.60.73/proxy/209923082/209923082.m3u8
+西藏拉萨布达拉宫,http://178.157.60.73/proxy/800329695/800329695.m3u8
+西藏林芝墨脱县,http://178.157.60.73/proxy/476608588/476608588.m3u8
+新疆喀什达瓦昆景区,http://178.157.60.73/proxy/404107611/404107611.m3u8
+新疆伊犁州蝶湖公园,http://178.157.60.73/proxy/132379804/132379804.m3u8
+新疆昌吉州天山天池风景区,http://178.157.60.73/proxy/1482666116/1482666116.m3u8
+安徽黄山风景区,http://178.157.60.73/proxy/2125074276/2125074276.m3u8
+四川邛崃天台山,http://178.157.60.73/proxy/690671060/690671060.m3u8
+四川甘孜州石渠县,http://178.157.60.73/proxy/682530961/682530961.m3u8
+四川西昌市邛海景区,http://178.157.60.73/proxy/239112006/239112006.m3u8
+四川成都东安湖体育公园,http://178.157.60.73/proxy/648790008/648790008.m3u8
+四川成都安顺廊桥,http://178.157.60.73/proxy/1937762418/1937762418.m3u8
+四川成都天府熊猫塔,http://178.157.60.73/proxy/1936214178/1936214178.m3u8
+四川成都春熙路,http://178.157.60.73/proxy/614090729/614090729.m3u8
+四川阿坝州汶川映秀新城,http://178.157.60.73/proxy/369813965/369813965.m3u8
+四川阿坝州黄龙五彩池,http://178.157.60.73/proxy/411064268/411064268.m3u8
+四川乐山市峨眉山风景区,http://178.157.60.73/proxy/1575586364/1575586364.m3u8
+重庆巫山长江画卷,http://178.157.60.73/proxy/923062896/923062896.m3u8
+重庆李子坝站,http://178.157.60.73/proxy/1077381778/1077381778.m3u8
+重庆巫山长江大桥,http://178.157.60.73/proxy/1215290450/1215290450.m3u8
+湖南张家界天门山景区,http://178.157.60.73/proxy/1114678886/1114678886.m3u8
+湖南湘西凤凰古城,http://178.157.60.73/proxy/1244287653/1244287653.m3u8
+湖南张家界大峡谷景区,http://178.157.60.73/proxy/848407143/848407143.m3u8
+
+斗鱼电影,#genre#
+4K电影,http://allinone.netsite.cc/douyu/9249162
+华语电影1,http://allinone.netsite.cc/douyu/122402
+华语电影2,http://allinone.netsite.cc/douyu/85894
+粤语电影,http://allinone.netsite.cc/douyu/6566671
+欧美电影,http://allinone.netsite.cc/douyu/20415
+国内惊悚,http://allinone.netsite.cc/douyu/218859
+国外惊悚,http://allinone.netsite.cc/douyu/96577
+斗鱼电影1,http://allinone.netsite.cc/douyu/747764
+斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
+斗鱼电影3,http://allinone.netsite.cc/douyu/36337
+斗鱼电影4,http://allinone.netsite.cc/douyu/2436390
+斗鱼电影5,http://allinone.netsite.cc/douyu/323876
+榜单电影,http://allinone.netsite.cc/douyu/8770422
+
+影院,#genre#
+星爷 喜剧,https://live.metshop.top/yy/21092633
+电影 古惑仔全集,https://live.metshop.top/yy/1354507447
+星爷经典-百看不厌,https://live.metshop.top/yy/1382736808
+经典港片电影,https://live.metshop.top/yy/1382793140
+高分经典电影,https://live.metshop.top/yy/1382754187
+经典港片 3000部,https://live.metshop.top/yy/1353059120
+24小时播放,https://live.metshop.top/yy/29067083
+国外科幻,https://live.metshop.top/yy/1382736800
+成龙系列,https://live.metshop.top/yy/1354888751
+热播喜剧,https://live.metshop.top/yy/1354936169
+战争大片-国外电影,https://live.metshop.top/yy/1382736857
+舌尖上的中国第2季,https://live.metshop.top/yy/1354930943
+科幻大片,https://live.metshop.top/yy/1382745181
+动物世界,https://live.metshop.top/yy/1382749889
+国内战争电影,https://live.metshop.top/yy/1382736865
+外国科幻大片,https://live.metshop.top/yy/1382747628
+上海滩,https://live.metshop.top/yy/1382745184
+国内科幻电影,https://live.metshop.top/yy/1354932444
+国外高分大片,https://live.metshop.top/yy/1382736867
+贾玲春晚小品,https://live.metshop.top/yy/1382736720
+射雕英雄传,https://live.metshop.top/yy/1354210357
+新白娘子传奇,https://live.metshop.top/yy/1354490667
+神雕侠侣,https://live.metshop.top/yy/1351762426
+倚天屠龙记,https://live.metshop.top/yy/1449856066
+天龙八部,https://live.metshop.top/yy/1351814644
+笑傲江湖,https://live.metshop.top/yy/1354936128
+鹿鼎记,https://live.metshop.top/yy/28265277
+寻秦记,https://live.metshop.top/yy/1382749900
+封神榜,https://live.metshop.top/yy/1353426319
+上海滩,https://live.metshop.top/yy/1382745184
+大时代,https://live.metshop.top/yy/1354930891
+天道,https://live.metshop.top/yy/1382735574
+
 
 央视频道,#genre#
 CCTV-1,http://14.117.233.245:9000/udp/239.77.0.188:5146
@@ -40,3 +153,16 @@ CCTV-14,http://222.240.82.92:9901/tsfile/live/0014_1.m3u8
 CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
+
+广播,#genre#
+BBC RADIO 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+BBC RADIO 1 DANCE,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+BBC RADIO 1 RELAX,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+BBC RADIO 1XTRA,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+BBC RADIO 2,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+BBC RADIO 3,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+BBC RADIO 4,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+BBC RADIO 4 EXTRA,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+BBC RADIO 5 LIVE,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+BBC RADIO 6,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+BBC WORLD SERVICE,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
